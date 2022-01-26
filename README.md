@@ -14,8 +14,9 @@ GridSearchCV: GridSearchCV was used for choosing the best algorithm amongst lass
 Major Python Libraries use: sklearn, pandas, numpy , matplotlib , cross_val_score, GridSearchCV
 
 Outcome:  Linear regression algorithm gave the best score and hence used for doing actual prediction
-|model |	Best_score|	Best_params
-| ---      | ---       |
-linear_regression|	0.821906|	{'normalize': False}
-lasso|	0.703225|	{'alpha': 1, 'selection': 'cyclic'}
-decision_tree|	0.755886|	{'criterion': 'mse', 'splitter': 'best'}
+
+| model |	Best_score|	Best_params|
+| ---      | ---       | ----- |
+linear_regression|	0.821906|	{'normalize': False}|
+lasso|	0.703225|	{'alpha': 1, 'selection': 'cyclic'}|
+decision_tree|	0.755886|	{'criterion': 'mse', 'splitter': 'best'}|
