@@ -20,7 +20,8 @@ Some critical stages of the project:
 **GridSearchCV**: GridSearchCV was used for choosing the best algorithm amongst lasso, Decision Tress regressor and linear regressor. It is also used for Hyper parameter tunning for the best algorithm.
 
 
-**Major Python Libraries use: sklearn, pandas, numpy , matplotlib , cross_val_score, GridSearchCV**
+==Major Python Libraries use: sklearn, pandas, numpy , matplotlib , cross_val_score, GridSearchCV==
+
 
 ***Outcome:  Linear regression algorithm gave the best score and hence used for doing actual prediction***
 
